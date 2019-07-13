@@ -23,8 +23,6 @@ sections:
 - type: document
   path: publications
   label: publications
-  match: "**/*"
-  read_only: false
 - type: jekyll-posts
   label: Posts
   create: all
